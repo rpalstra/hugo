@@ -1,0 +1,5 @@
+baseURL = "http://gcp.palstra.com/"
+languageCode = "en-us"
+title = "palstra.com"
+#theme = "tale"
+theme = "ananke"
