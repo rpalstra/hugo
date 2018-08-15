@@ -2,4 +2,29 @@ baseURL = "http://gcp.palstra.com/"
 languageCode = "en-us"
 title = "palstra.com"
 #theme = "tale"
-theme = "hugo-paper"
+theme = "casper"
+#paginate = 5
+DisqusShortname = "palstra"
+Copyright = "(c) 2000 - 2018 Riemer Palstra"
+canonifyurls = true
+
+[params]
+  description = "Linux Consultant | Red Hat Certified Architect | Rotterdam, The Netherlands"
+  author = "Riemer Palstra"
+  authorlocation = "Rotterdam, The Netherlands"
+  authorwebsite = "https://palstra.com"
+  authorbio= "Linux Consultant, Red Hat Certified Architect, AWS Certified Solutions Architect - Associate. Rotterdam, The Netherlands."
+  googleAnalyticsUserID = "UA-79101-12"
+  githubName = "rpalstra"
+  twitterName = "rpalstra"
+  facebookName = "rpalstra"
+  linkedinName = "rpalstra"
+  keybaseName = "rpalstra"
+  instagramName = "rpalstra"
+  email = "riemer@palstra.com"
+  # googlePlusName = ""
+  hideHUGOSupport = true
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "rpalstra"
